@@ -1,0 +1,10 @@
+.obsidian/workspace.json
+.obsidian/workspaces.json
+.obsidian/cache
+.trash/
+
+# 大きいファイルはOneDriveへ
+*.mat
+*.mp4
+*.mov
+*.zip
